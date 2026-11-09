@@ -5,3 +5,4 @@
 > A curated list of live coding languages and tools
 
 This list has now [moved to codeberg](https://codeberg.org/toplap/awesome-livecoding).
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native macOS audio visual companion beside the Dock.
